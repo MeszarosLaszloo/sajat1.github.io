@@ -1,0 +1,25 @@
+﻿body
+{
+    background-color:darkgreen;
+}
+a:link a:visited a:active a:hover
+{
+   color:darkgreen; 
+}
+
+.keret
+{
+    width:1000px;
+    border-style: groove;
+    background-color: palegreen;
+    margin: 3px;
+    
+}
+
+.keret1{
+    width: 150px;
+}
+
+.fent{
+    text-align: top;
+}
